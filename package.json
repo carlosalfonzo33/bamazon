@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon application",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosalfonzo33/bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "application"
+  ],
+  "author": "Carlos Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosalfonzo33/bamazon/issues"
+  },
+  "homepage": "https://github.com/carlosalfonzo33/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.2.1",
+    "mysql": "^2.13.0"
+  }
+}
